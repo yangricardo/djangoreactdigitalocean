@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import CustomersService from './CustomersService';
+import CustomersService from '../services/CustomerService';
+
 
 const customersService = new CustomersService();
 
